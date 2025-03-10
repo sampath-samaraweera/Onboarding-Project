@@ -16,7 +16,6 @@ Open index.html in a browser to test the application.
 **Usage**
 
 Click buttons to apply effects in real-time. 
-Upload an image or use a live webcam feed.
 
 **Notes**
 
